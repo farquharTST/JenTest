@@ -1,0 +1,11 @@
+C:\Projects\srcCtrl\git\jenTest\jenTest\bin\Debug\netcoreapp2.0\jenTest.deps.json
+C:\Projects\srcCtrl\git\jenTest\jenTest\bin\Debug\netcoreapp2.0\jenTest.runtimeconfig.json
+C:\Projects\srcCtrl\git\jenTest\jenTest\bin\Debug\netcoreapp2.0\jenTest.runtimeconfig.dev.json
+C:\Projects\srcCtrl\git\jenTest\jenTest\bin\Debug\netcoreapp2.0\jenTest.dll
+C:\Projects\srcCtrl\git\jenTest\jenTest\bin\Debug\netcoreapp2.0\jenTest.pdb
+C:\Projects\srcCtrl\git\jenTest\jenTest\obj\Debug\netcoreapp2.0\jenTest.csprojResolveAssemblyReference.cache
+C:\Projects\srcCtrl\git\jenTest\jenTest\obj\Debug\netcoreapp2.0\jenTest.csproj.CoreCompileInputs.cache
+C:\Projects\srcCtrl\git\jenTest\jenTest\obj\Debug\netcoreapp2.0\jenTest.AssemblyInfoInputs.cache
+C:\Projects\srcCtrl\git\jenTest\jenTest\obj\Debug\netcoreapp2.0\jenTest.AssemblyInfo.cs
+C:\Projects\srcCtrl\git\jenTest\jenTest\obj\Debug\netcoreapp2.0\jenTest.dll
+C:\Projects\srcCtrl\git\jenTest\jenTest\obj\Debug\netcoreapp2.0\jenTest.pdb
